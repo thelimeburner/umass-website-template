@@ -184,7 +184,7 @@ h1 /* .post-title */ {
     letter-spacing: -1px;
     line-height: 1;
 		font-family: 'Titillium Web', sans-serif;
-		color: #522d80;
+		color: #000000;
 
     @include media-query($on-laptop) {
 /*        font-size: 36px; */
@@ -250,7 +250,7 @@ ul.listing li.listing-item time {
 }
 
 ul.listing li.listing-item a {
-	color: $clemson-purple;
+	color: $umass-grey;
 	font-weight: 400;
 	font-family: 'Titillium Web', sans-serif;
 }
